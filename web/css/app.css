@@ -71,6 +71,7 @@ body {
 .technology-logo-box {
     width: 90%;
     margin-bottom: 20px;
+    text-align: center !important;
 }
 
 .technology-logo {
@@ -100,5 +101,12 @@ body {
 
     .jumbotron-text-lastname {
         padding-left: 0;
+    }
+    .about-me-img-box {
+        margin-bottom: 40px;
+    }
+    .technology-logo {
+        width: 60%;
+        height: auto;
     }
 }
