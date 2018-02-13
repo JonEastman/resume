@@ -124,9 +124,10 @@ body {
     }
     .about-me-img-box {
         margin-bottom: 40px;
+        width: 100%;
     }
     .about-me-img-col {
-        text-align: center;
+        text-align: center !important;
     }
     .technology-logo {
         width: 60%;
